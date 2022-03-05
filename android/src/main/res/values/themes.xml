@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_supplier_logo</item>
+        <item name="windowSplashScreenBackground">@color/fountain_blue</item>
+        <item name="postSplashScreenTheme">@style/Theme.TASA</item>
+
+    </style>
+
+    <style name="Theme.TASA" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

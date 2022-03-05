@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_skip_button">تخطي</string>
+    <string name="onboarding_title_1">تصفح المنتجات المطلوبة</string>
+    <string name="onboarding_title_2">ارسل العرض الخاص بك</string>
+    <string name="onboarding_title_3">تاجر مهتمة بعرضك</string>
+    <string name="onboarding_title_4">قم ببيع منتجاتك</string>
+    <string name="onboarding_description_1">تصفح المنتجات المطلوبة من تاجر و ارسل العرض الخاص بك</string>
+    <string name="onboarding_description_2">تصفح تفاصيل المنتج و ارسل العرض الخاص بك اذا كان المنتج متاح لديك</string>
+    <string name="onboarding_description_3">اذا كنت أرسلت افضل عرض ستتواصل معك تاجر لاستكمال الاتفاق علي العرض</string>
+    <string name="onboarding_description_4">يمكنك عرض منتجاتك للبيع لتاجر بالاسعار التي تناسبك</string>
+    <string name="onboarding_login_button">دخول</string>
+    <string name="onboarding_signup_button">تسجيل</string>
+</resources>

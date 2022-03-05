@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onboarding_skip_button">Skip</string>
+    <string name="onboarding_title_1">Explore Wanted Products</string>
+    <string name="onboarding_title_2">Send your deal</string>
+    <string name="onboarding_title_3">Taager Interested</string>
+    <string name="onboarding_title_4">Sell your products</string>
+    <string name="onboarding_description_1">Explore wanted product for Taager and send your deal</string>
+    <string name="onboarding_description_2">Check product details and send a deal if you have this product</string>
+    <string name="onboarding_description_3">If you sent the best deal, Taager will contact you to finalize the deal</string>
+    <string name="onboarding_description_4">You can offer your products for sale with your prices for Taager to buy</string>
+    <string name="onboarding_login_button">Login</string>
+    <string name="onboarding_signup_button">Sign up</string>
+</resources>

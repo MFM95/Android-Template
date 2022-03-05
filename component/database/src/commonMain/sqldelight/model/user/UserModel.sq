@@ -1,0 +1,14 @@
+CREATE TABLE UserModel (
+    id TEXT NOT NULL PRIMARY KEY,
+    name TEXT NOT NULL
+);
+
+insert:
+INSERT INTO UserModel(id, name)
+VALUES ?;
+
+selectAll:
+SELECT * FROM UserModel;
+
+deleteAll:
+DELETE FROM UserModel;
